@@ -6,7 +6,7 @@ Script for creating Blender toolbar icons from meshes.
 
 Usage
 -
-Copy the .py script to Blender TextEdotor and execute it.
+Open the create_toolbar_icon.py script in Blender TextEdotor and execute it.
 
 More info
 -
