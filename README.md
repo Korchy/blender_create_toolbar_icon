@@ -10,3 +10,4 @@ Copy the .py script to Blender TextEdotor and execute it.
 
 More info
 -
+https://b3d.interplanety.org/en/creating-custom-icons-for-blender-toolbar/
